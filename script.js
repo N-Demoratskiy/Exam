@@ -1,4 +1,3 @@
-// script.js
 
 function submitForm() {
     var fullName = document.getElementById('fullName').value;
